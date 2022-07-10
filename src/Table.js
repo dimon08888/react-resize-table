@@ -61,7 +61,6 @@ const Table = ({ headers, minCellWidth, tableContent }) => {
     }
   }, [activeIndex, mouseMove, mouseUp, removeListeners])
 
-  // Demo only
   const resetTableCells = () => {
     tableElement.current.style.gridTemplateColumns = ''
   }

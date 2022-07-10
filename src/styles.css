@@ -22,7 +22,7 @@ button {
   margin-bottom: 25px;
   border-radius: 6px;
   background: #fff;
-  overflow: hidden; /* Clip any scrollbars that appear */
+  overflow: hidden;
 }
 
 table {
